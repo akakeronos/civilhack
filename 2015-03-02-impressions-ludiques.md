@@ -14,6 +14,7 @@ De retour dans l'espace de jeu, je me mêle à une large équipe d'agilistes ag�
 - une liste contenant des valeurs associées à la réalisation des user-stories pré-définies
 - 4 tables
 - 15 cartes indiquant les rôles des participants : product owner, scrum master et développeur
+
 ### Objectif
 Réaliser le puzzle en 40 minutes
 ### Challenge
